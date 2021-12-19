@@ -1,0 +1,193 @@
+[
+
+  {
+    "id": 1,
+    "produto": 4,
+    "titulo": "Tamanho",
+    "comportamento": "valor_maior",
+    "tipo": "checkbox",
+    "min": 1,
+    "max": 1,
+    "opcoes": [
+      {
+        "id": 1,
+        "titulo": "4 Fatias",
+        "preco": 29.9
+      },
+      {
+        "id": 2,
+        "titulo": "8 Fatias",
+        "preco": 35.9
+      },
+      {
+        "id": 3,
+        "titulo": "12 Fatias",
+        "preco": 39.9
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "produto": 4,
+    "titulo": "Borda",
+    "comportamento": "soma",
+    "tipo": "incremento",
+    "min": 0,
+    "max": 2,
+    "opcoes": [
+      {
+        "id": 4,
+        "titulo": "Cheddar",
+        "preco": 4.0
+      },
+      {
+        "id": 5,
+        "titulo": "Catupiry",
+        "preco": 3.5
+      },
+      {
+        "id": 6,
+        "titulo": "Chocolate",
+        "preco": 3.0
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "produto": 5,
+    "titulo": "Tamanho",
+    "comportamento": "valor_maior",
+    "tipo": "checkbox",
+    "min": 1,
+    "max": 1,
+    "opcoes": [
+      {
+        "id": 7,
+        "titulo": "4 Fatias",
+        "preco": 28
+      },
+      {
+        "id": 8,
+        "titulo": "8 Fatias",
+        "preco": 33
+      },
+      {
+        "id": 9,
+        "titulo": "12 Fatias",
+        "preco": 37
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "produto": 6,
+    "titulo": "Borda",
+    "comportamento": "soma",
+    "tipo": "incremento",
+    "min": 0,
+    "max": 2,
+    "opcoes": [
+      {
+        "id": 10,
+        "titulo": "Cheddar",
+        "preco": 4.0
+      },
+      {
+        "id": 11,
+        "titulo": "Catupiry",
+        "preco": 3.5
+      },
+      {
+        "id": 12,
+        "titulo": "Chocolate",
+        "preco": 3.0
+      }
+    ]
+  },
+
+
+  
+  {
+    "id": 5,
+    "produto": 6,
+    "titulo": "Tamanho",
+    "comportamento": "valor_maior",
+    "tipo": "checkbox",
+    "min": 1,
+    "max": 1,
+    "opcoes": [
+      {
+        "id": 13,
+        "titulo": "4 Fatias",
+        "preco": 29.0
+      },
+      {
+        "id": 14,
+        "titulo": "8 Fatias",
+        "preco": 35.0
+      },
+      {
+        "id": 15,
+        "titulo": "12 Fatias",
+        "preco": 39.0
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "produto": 6,
+    "titulo": "Borda",
+    "comportamento": "soma",
+    "tipo": "incremento",
+    "min": 0,
+    "max": 2,
+    "opcoes": [
+      {
+        "id": 16,
+        "titulo": "Cheddar",
+        "preco": 4.0
+      },
+      {
+        "id": 17,
+        "titulo": "Catupiry",
+        "preco": 3.5
+      },
+      {
+        "id": 18,
+        "titulo": "Chocolate",
+        "preco": 3.0
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "produto": 8,
+    "titulo": "Sabor",
+    "comportamento": "sem_valor",
+    "tipo": "checkbox",
+    "min": 1,
+    "max": 1,
+    "opcoes": [
+      {
+        "id": 19,
+        "titulo": "Laranja",
+        "preco": 0.0
+      },
+      {
+        "id": 20,
+        "titulo": "Uva",
+        "preco": 0.0
+      },
+      {
+        "id": 21,
+        "titulo": "Limão",
+        "preco": 0.0
+      }
+    ]
+  }
+]

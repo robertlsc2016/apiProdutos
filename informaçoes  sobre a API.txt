@@ -1,0 +1,9 @@
+- Hospedei a API na Heroku, pois a equipe responsável em realizar a manutenção da API estava ocupada e não podia ficar realizando ajustes na API. A API estava com um problema de atualização e fiz algumas correções de informações e valores incorretos
+
+- Em adicionais.json, item de id: 1, repete o adicional 8 fatias. Coloquei 12 fatias
+
+- Em adicionais.json, item de id: 3, repete o adicional 8 fatias. Coloquei 12 fatias
+
+- Em adicionais.json, item de id: 5, repete o adicional 8 fatias. Coloquei 12 fatias
+
+-Ao realizar a requisição o produto/6, retorna adicionais repetidos, não consegui realizar a correção
