@@ -5,7 +5,7 @@
     "produtos": [
       {
         "id": 1,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/1.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/1.jpg"],
         "titulo": "Bolo de cenoura c/ chocolate",
         "descricao": "Bolo de cenoura com cobertura de chocolate ao leite.",
         "preco": 29.99,
@@ -13,7 +13,7 @@
       },
       {
         "id": 2,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/2.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/2.jpg"],
         "titulo": "Bolo de chocolate",
         "descricao": "Feito com chocolate 50% cacau, tem sabor marcante e consistência leve.",
         "preco": 12.0,
@@ -21,7 +21,7 @@
       },
       {
         "id": 3,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/3.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/3.jpg"],
         "titulo": "Bolo de banana ",
         "descricao": "Banana caramelizada, banana com leite condensado batido na massa. Bolo de massa leve e muito saboroso.",
         "preco": 26.0,
@@ -36,7 +36,7 @@
     "produtos": [
       {
         "id": 4,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/4.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/4.jpg"],
         "titulo": "Pizza de frango",
         "descricao": "Molho de tomate, mussarela, frango desfiado e refogado.",
         "preco": 29.9,
@@ -44,7 +44,7 @@
       },
       {
         "id": 5,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/5.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/5.jpg"],
         "titulo": "Pizza de calabresa",
         "descricao": "Molho de tomate, mussarela e calabresa.",
         "preco": 28.0,
@@ -52,7 +52,7 @@
       },
       {
         "id": 6,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/6.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/6.jpg"],
         "titulo": "Pizza tradicional",
         "descricao": "Molho de tomate, presunto, mussarela, e tomates.",
         "preco": 29.0,
@@ -67,7 +67,7 @@
     "produtos": [
       {
         "id": 7,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/7.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/7.jpg"],
         "titulo": "Coca-Cola Lata",
         "descricao": "",
         "preco": 5.0,
@@ -75,7 +75,7 @@
       },
       {
         "id": 8,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/8.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/8.jpg"],
         "titulo": "Suco Dell vale",
         "descricao": "",
         "preco": 6.0,
@@ -83,7 +83,7 @@
       },
       {
         "id": 9,
-        "fotos": ["https://apiprodutosutalk.herokuapp.com/produtos/9.jpg"],
+        "fotos": ["https://apiprodutosutalk.herokuapp.com/images/produtos/9.jpg"],
         "titulo": "Suco de laranja natural",
         "descricao": "",
         "preco": 7.0,
